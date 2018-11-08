@@ -6,7 +6,7 @@ Remember to install all packages required
 npm install
 ```
 
-##Example
+## Example
 ```
 node app -d "Barcelona Spain"
 ```
